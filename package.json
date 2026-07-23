@@ -10,7 +10,7 @@
     "del": "^5.1.0",
     "gulp": "^4.0.2",
     "gulp-cssmin": "^0.2.0",
-    "gulp-notify": "^3.2.0",
+    "gulp-notify": "^5.0.0",
     "gulp-plumber": "^1.2.1",
     "gulp-pug": "^5.0.0",
     "gulp-sass": "^6.0.1",
